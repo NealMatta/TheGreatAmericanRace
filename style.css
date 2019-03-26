@@ -40,6 +40,9 @@ header .header-img {
   padding-bottom: 20px; }
   .right-section .team h6 {
     font-size: 1.5rem; }
+  .right-section .team li {
+    font-size: 0.9rem;
+  }
   .right-section .team a {
     color: #002147;
     transition: 0.2s; }
